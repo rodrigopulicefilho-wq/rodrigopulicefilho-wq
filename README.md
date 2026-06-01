@@ -12,6 +12,10 @@
 - 📫 Como me alcançar: rodrigo.pulice.filho@escola.pr.gov.br
 
 
+<p align="right">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/baf52aa6-ff71-412d-9607-db8feb17874b" width="190" alt="GIF" style="border-radius: 12px;"/>
+</p>
+
 ## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
@@ -19,4 +23,3 @@
     <img src="https://skillicons.dev/icons?i=js,c,vscode,html,java,mysql,github,linux&theme=dark" />
   </a>
 </div>
-
