@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Olá, eu sou um estudante de desenvolvimento de sistemas!  </h1>
-  <h3 align="center">Skatista, lutador. gosto de basquete e sempre procurando coisas novas!</h3>
+  <h3 align="center">Skatista, lutador, gosto de basquete e sempre procurando coisas novas!</h3>
 </div>
 
 ## 🙋‍♂️ Sobre Mim
