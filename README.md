@@ -20,9 +20,3 @@
   </a>
 </div>
 
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigopulicefilho-wq&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigopulicefilho-wq&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" alt="Linguagens mais usadas" />
-</div>
