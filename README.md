@@ -20,6 +20,6 @@
 
 <div align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js,c,vscode,html,java,mysql,github,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,c,vscode,html,java,github,linux&theme=dark" />
   </a>
 </div>
